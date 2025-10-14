@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook and IPython
+.ipynb_checkpoints
+
+# PyTorch specific
+*.pth
+*.pt
+*.ckpt
+
+# PyTorch Lightning specific
+lightning_logs/
+tb_logs/
+wandb/
+
+# Data and datasets
+data/GEN_IMAGES
+data/MNIST
+models/
+datasets/
+*.npz
+*.npy
+*.csv
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Test / Output
+__results__/
+output/
+logs/
+results/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Others
+*.swp
+*.swo
+
