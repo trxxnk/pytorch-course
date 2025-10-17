@@ -45,6 +45,7 @@ wandb/
 # Data and datasets
 data/GEN_IMAGES
 data/MNIST
+*hymenoptera_data*
 models/
 datasets/
 *.npz
